@@ -1,0 +1,862 @@
+@media(max-width:1228px) {
+    .blue-photo {
+        width: 50%;
+    }
+
+    .intro-photo {
+        width: 60%;
+    }
+
+    .sect1-2 {
+        padding: 0 30px;
+        align-items: center;
+    }
+
+    .black-photo {
+        width: 65%;
+    }
+
+    .df {
+        width: 70%;
+    }
+
+    .last-blue {
+        padding: 121px 0;
+        height: 420px;
+    }
+
+    .container {
+        max-width: 1000px;
+        margin: 0 auto;
+
+    }
+
+    .left-pink {
+        width: 45%;
+
+    }
+
+    .pink-photo {
+        width: 120%;
+    }
+
+    .right-pink {
+        width: 50%;
+    }
+
+    .blue-cards {
+        padding: 20px;
+        width: 347px;
+    }
+
+    .sect3-cards {
+        padding: 30px;
+    }
+
+}
+
+@media(max-width:1000px) {
+    .container {
+        max-width: 880px;
+    }
+
+    .sect1-2-title {
+        font-size: 23px;
+        line-height: 31px;
+    }
+
+    .sect1-2-text {
+        line-height: 19px;
+        font-size: 16px;
+    }
+
+    .left-pink {
+        height: 600px;
+    }
+
+    .right-pink {
+        height: 600px;
+
+    }
+
+    .pink-photo {
+        margin-top: 150px;
+        margin-left: -20px;
+    }
+
+    .pink-text {
+        font-size: 23px;
+        line-height: 26px;
+        margin-top: 30px;
+    }
+
+    .sect2-photo {
+        margin-top: 40px;
+    }
+
+    .lll {
+        position: absolute;
+        bottom: 30px;
+        left: 10px;
+        max-width: 430px;
+    }
+
+    .sect3-card {
+        position: relative;
+        height: 586px;
+    }
+
+    .blue-new-title {
+        font-size: 27px;
+        line-height: 28px;
+    }
+
+    .sect3-content-titles {
+        font-size: 24px;
+    }
+
+    .nav-link {
+        font-size: 14px;
+        margin: 0 23px;
+    }
+
+    .blue-photo {
+        top: 20%;
+    }
+
+    .blue-sect {
+        padding-bottom: 40px;
+    }
+
+    .blue-cards {
+        padding-left: 13px;
+        padding-top: 13px;
+        padding-right: 0;
+    }
+
+
+}
+
+@media(max-width:880px) {
+    .container {
+        max-width: 700px;
+    }
+
+    .nav-logo {
+        max-width: 85px;
+    }
+
+    .nav-link {
+        font-size: 12px;
+        margin: 0px 11px;
+    }
+
+    .nav-button {
+        font-size: 13px;
+    }
+
+    .intro-photo {
+        height: fit-content;
+        width: 56%;
+        margin: auto;
+    }
+
+    .intro-title {
+        font-size: 37px;
+        line-height: 44px;
+    }
+
+    .blue-title {
+        font-size: 20px;
+        line-height: 28px;
+        padding: 40px 0 20px;
+    }
+
+    .blue-text {
+
+        font-size: 18px;
+        line-height: 22px;
+        max-width: 46%;
+    }
+
+    .blue-photo {
+        top: 22%;
+    }
+
+    .df {
+        width: 60%;
+    }
+
+    .sect1-2-title {
+        font-size: 19px;
+        line-height: 28px;
+    }
+
+    .sect1-2-text {
+        line-height: 24px;
+        font-size: 15px;
+    }
+
+    .pink-title {
+        font-size: 19px;
+        line-height: 31px;
+    }
+
+    .pink-text {
+        font-size: 17px;
+    }
+
+    .sect2-photo {
+        margin: auto;
+        max-width: 400px;
+        margin-left: -47px;
+    }
+
+    .sect2-photo {
+        max-width: 350px;
+        margin-top: 30px;
+        margin-left: -40px;
+    }
+
+    .sect3-content-titles {
+        font-size: 15px;
+    }
+
+    .sect3-content-texts {
+        font-size: 18px;
+        line-height: 32px;
+    }
+
+    .blue-new-text {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .last-top {
+        width: 100%;
+    }
+
+    .lll {
+        max-width: 350px;
+    }
+
+    .last-top {
+        max-width: 100%;
+        padding: 0 20px;
+    }
+
+    .dfg {
+        width: 100%;
+    }
+
+    .last-card {
+        width: 30%;
+    }
+}
+
+@media(max-width:700px) {
+    .container {
+        max-width: 580px;
+    }
+
+    .nav-logo {
+        max-width: 75px;
+    }
+
+    .nav-button {
+        font-size: 10px;
+        padding: 8px 17px;
+    }
+
+    .nav-link {
+        font-size: 11px;
+        margin: 0px 11px;
+    }
+
+    .intro-title {
+        font-size: 32px;
+        line-height: 39px;
+    }
+
+    .blue-text:nth-of-type(1) {
+        padding-bottom: 16px;
+        border-bottom: solid 2px #4B93FF;
+    }
+
+    .blue-text {
+        font-size: 16px;
+        line-height: 19px;
+        max-width: 44%;
+    }
+
+    .blue-sect {
+        padding-bottom: 14px;
+    }
+
+    .blue-title {
+        font-size: 20px;
+        line-height: 28px;
+        padding: 12px 0 20px;
+    }
+
+    .sect1-2-title {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .sect1-2-text {
+        line-height: 23px;
+        font-size: 12px;
+    }
+
+    .sect2-photo {
+        max-width: 320px;
+    }
+
+    .black-title {
+        font-size: 21px;
+    }
+
+    .sect3-cards {
+        flex-direction: column;
+
+    }
+
+    .sect3-content-titles {
+        font-size: 21px;
+        font-weight: 600;
+    }
+
+    .blue-cards:nth-of-type(1) {
+        margin-right: 0;
+    }
+
+    .apm {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .blue-cards {
+        padding: 20px;
+        width: 230px;
+    }
+
+    .s-foot {
+        font-size: 10px;
+        line-height: 9px;
+    }
+
+    .lll {
+        max-width: 290px;
+    }
+
+    .sect2-photo {
+        max-width: 300px;
+    }
+
+}
+
+@media(max-width:587px) {
+    .container {
+        max-width: 480px;
+    }
+
+    .sect2-photo {
+        max-width: 280px;
+    }
+
+    .lll {
+        max-width: 247px;
+    }
+
+    .nav-logo {
+        max-width: 60px;
+    }
+
+    .nav-link {
+        font-size: 9px;
+        margin: 0px 8px;
+    }
+
+    .nav-button {
+        font-size: 8px;
+        padding: 5px 14px;
+    }
+
+    .intro-title {
+        font-size: 18px;
+        line-height: 31px;
+    }
+
+    .intro-text {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 23px;
+    }
+
+    .sect1-title {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 31px;
+        text-align: center;
+        color: #121722;
+    }
+
+    .sect1-text {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 14px;
+    }
+
+    .blue-title {
+        font-size: 13px;
+    }
+
+    .blue-text {
+        font-size: 12px;
+        line-height: 14px;
+        max-width: 44%;
+    }
+
+    .sect1-2-title {
+        font-size: 10px;
+        line-height: 18px;
+    }
+
+    .sect1-2-text {
+        line-height: 17px;
+        font-size: 9px;
+    }
+
+    .pink-photo {
+        width: 216%;
+    }
+
+    .sect2-photo {
+        max-width: 188%;
+    }
+
+    .sect3-title {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 35px;
+    }
+
+    .black-title {
+        font-size: 16px;
+    }
+
+    .black-text {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 13px;
+    }
+
+    .blue-cards {
+        padding: 20px;
+        width: 180px;
+    }
+
+    .blue-new-title {
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .blue-new-text {
+        font-size: 10px;
+        line-height: 18px;
+    }
+
+    .blue-cards {
+        height: 302px;
+    }
+
+    .last-title {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 25px;
+    }
+
+    .last-text {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 32px;
+    }
+
+    .last-link {
+        font-size: 12px;
+    }
+
+    .last-blue {
+        padding: 0px 0;
+        height: 200px;
+    }
+
+    .last-blue-title {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 28px;
+    }
+
+    .last-blue-link {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+    }
+
+    .f-foot-text {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 10px;
+    }
+
+    .qwe {
+        height: fit-content;
+        width: 69px;
+    }
+
+    .lll {
+        max-width: 100%;
+    }
+
+    .lll {
+        max-width: 100%;
+    }
+
+
+
+}
+
+@media(max-width:460px) {
+    .container {
+        max-width: 360px;
+    }
+
+    .nav-list:nth-of-type(1) {
+        display: none
+    }
+
+    .nav-logo {}
+
+    .nav-button {
+        font-size: 12px;
+        padding: 5px 14px;
+    }
+
+    .intro-link {
+        font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 12px;
+
+    }
+
+    .intro-title {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .intro-text {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 16px;
+    }
+
+    .blue-title {
+        font-size: 9px;
+    }
+
+    .blue-text:nth-of-type(1) {
+        padding-bottom: 10px;
+        border-bottom: solid 2px #4B93FF;
+    }
+
+    .blue-text {
+        font-size: 9px;
+        line-height: 10px;
+        max-width: 42%;
+    }
+
+    .sect1-2-title {
+        font-size: 10px;
+        line-height: 13px;
+    }
+
+    .sect1-2-text {
+        line-height: 15px;
+        font-size: 9px;
+    }
+
+    .sect2-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .left-pink {
+        height: max-content;
+    }
+    
+  
+    .left-pink {
+        width: 100%;
+    }
+    .pink-title {
+        font-size: 21px;
+        line-height: 0px;
+    }
+    .pink-photo {
+        width: 141%;
+    }
+    
+
+    .pink-photo {
+        margin-top: 9px;
+        margin-left: -32px;
+    }
+    .right-pink {
+        height: max-content;
+    }
+    .right-pink {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .pink-title {
+        font-size: 25px;
+        line-height: 27px;
+    }
+    .pink-text {
+        font-size: 21px;
+    }
+    .pink-text {
+        font-size: 23px;
+        line-height: 30px;
+        margin-top: 26px;
+    }
+    .sect2-photo {
+        max-width: 100%;
+    }
+    .sect3-black {
+        background: #121722;
+        border-radius: 15px;
+        padding: 15px 10px 15px 11px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .black-photo {
+        width: 100%;
+    }
+    .sect3-content {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .sect3-card {
+        display: flex;
+        flex-direction: column;
+        background: rgba(241, 245, 255, 0.5);
+        border-radius: 16px;
+        width: 100%;
+        margin-top: 24px;
+        padding: 15px;
+        padding-bottom: 15px;
+        height: 550px;
+    }
+    .apm {
+        width: 100%;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .blue-cards{
+        width: 90%;
+        margin: 15px auto;
+    }
+    .blue-cards {
+        height: 290px;
+    }
+    .ccg{
+        display: flex;
+        flex-direction: row;
+    }
+    .last-top {
+        max-width: 100%;
+        padding: 0 20px;
+        display: flex;
+        flex-direction: column;
+    }
+    .last-bottom{
+        max-width: 48%;
+        padding: 0 20px;
+        display: flex;
+        flex-direction: column;
+    }
+    .sect3-content {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    
+    .sect3-card {
+        position: relative;
+        height: 500px;
+        width: 100%;
+        margin:  0;
+    }
+    .sect3-content-text {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 21px;
+        line-height: 29px;
+        color: rgba(18, 23, 34, 0.6);
+        margin-top: 37px;
+    }
+    .sect3-card {
+        display: flex;
+        flex-direction: column;
+        background: rgba(241, 245, 255, 0.5);
+        border-radius: 16px;
+        width: 49%;
+        margin-top: 24px;
+        padding-left: 11px;
+        padding-bottom: 0px;
+    }
+    .ccg{
+        align-items: center;
+        justify-content: center;
+    }
+    .dfg {
+        width: 140px;
+    }
+    .last-top {
+        max-width: 100%;
+        padding: 0px 0px;
+        display: flex;
+        flex-direction: column;
+    }
+    .last-bottom {
+        max-width: 48%;
+        padding: 0px 0px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .last-bottom {
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .last-top-title {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: #121722;
+    }
+    .s-foot {
+        font-size: 9px;
+        line-height: 8px;
+    }
+    
+    .sect1-2 {
+        padding: 0 30px;
+        align-items: center;
+        flex-direction: column;
+    }
+    .df {
+        width: 95%;
+    }
+    .right-content {
+        margin-left: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .sect1-2-title {
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .sect1-2-text {
+        line-height: 19px;
+        font-size: 11px;
+    }
+    .sect3-card {
+        display: flex;
+        flex-direction: column;
+        background: rgba(241, 245, 255, 0.5);
+        border-radius: 16px;
+        width: 49%;
+        margin-top: 24px;
+        padding-left: 11px;
+        padding-bottom: 0px;
+        width: 100%;
+    }
+    .last-card {
+        margin: 0 20px;
+        margin-bottom: 20px;
+    }
+    .f-foot-text {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 10px;
+        max-width: 65px;
+    }
+
+    .qwe {
+        height: fit-content;
+        width: 62px;
+    }
+    .s-foot {
+        font-size: 9px;
+        line-height: 2px;
+    }
+    .nav-logo {
+        max-width: 60px;
+        height: fit-content;
+    }
+    .intro {
+        display: flex;
+        flex-direction: column-reverse;
+        
+    }
+    .intro-left {
+        width: 100%;
+    }
+    .intro-title {
+        font-size: 28px;
+        line-height: 29px;
+    }
+    .intro-text {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .intro-link {
+        font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 14px;
+    }
+    .intro-photo {
+        height: fit-content;
+        width: 100%;
+        margin: auto;
+    }
+    
+
+.intro-title {
+    margin-top: 50px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 50px;
+    max-width: 380px;
+    color: #121722;
+    margin-bottom: 21px;
+}
+}
